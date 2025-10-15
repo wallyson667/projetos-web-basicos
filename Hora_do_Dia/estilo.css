@@ -1,0 +1,34 @@
+/* estilo global */
+body{
+  background-color: rgb(78, 78, 202);
+  font: normal 15pt Arial;
+}
+
+/* cabeçalho */
+header{
+    color: white;
+    text-align: center;
+}
+
+/* card central*/
+section{
+  background-color: rgb(238, 236, 236);
+  border-radius: 100px;
+  padding: 12px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.29);
+}
+
+/* containers*/
+div{
+  text-align: center;
+  padding: 10px;
+}
+
+/* rodape */
+footer{
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
